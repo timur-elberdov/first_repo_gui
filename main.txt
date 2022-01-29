@@ -3,4 +3,8 @@ file changed first time
 file changed second time
 file changed third time
 file changed fourth time
+<<<<<<< HEAD
 file changed fifth time
+=======
+file changed fifth time in web-2 branch
+>>>>>>> web-2
